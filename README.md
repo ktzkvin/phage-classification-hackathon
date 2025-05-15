@@ -87,10 +87,10 @@ Open `prediction.ipynb` using Jupyter and execute the cells sequentially.
 
 ## Authors
 
-- [@ktzkvin](https://www.github.com/ktzkvin)
-- [@skrinox](https://www.github.com/skrinox)
-- [@MarionFresquet](https://www.github.com/marionFresquet)
-- [@yellowsmob](https://www.github.com/yellowsmob)
+- Kevin KURTZ [@ktzkvin](https://www.github.com/ktzkvin)
+- Virgile MARTEL [@Skrinox](https://www.github.com/skrinox)
+- Marion Fresquet [@MarionFresquet](https://www.github.com/marionFresquet)
+- Jiwoo CHOI [@yellowsmob](https://www.github.com/yellowsmob)
 
 
 ---
