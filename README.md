@@ -23,8 +23,8 @@ This project was developed during the **[Phagos x AWS — Hackdays 2025](https:/
 ### 1. Dataset Integration & Fragmentation
 
 We combined two public datasets:
-- **Dataset 3** – Metagenomic fragments (bacteria, plasmids, phages)
-- **Dataset 4** – DeePhage phages with life cycle annotations
+- **Dataset 1** – Metagenomic fragments (bacteria, plasmids, phages)
+- **Dataset 2** – DeePhage phages with life cycle annotations
 
 We ensured high-confidence labeling by retaining only overlapping phage entries between datasets and fragmenting sequences with the script from the *Gauge your phage* benchmark study.
 
@@ -46,11 +46,11 @@ We employed [Evo](https://github.com/evo-design/evo), a transformer-based founda
 
 ## 📂 Datasets
 
-### Dataset 3: Simulated Metagenome
+### Dataset 1: Simulated Metagenome
 From Ho et al. (*Microbiome*, 2023) – contains labeled bacterial and phage fragments:
 - [Download link](https://phagos-rd-hackathon25-datasets.s3.eu-west-1.amazonaws.com/refseq_simulated_metagenome/refseq_simulated_metagenome.tar.gz)
 
-### Dataset 4: DeePhage
+### Dataset 2: DeePhage
 Includes phage genomes with lifestyle annotations (automated + expert-curated):
 - [Download link](https://s3.eu-west-1.amazonaws.com/phagos-rd-hackathon25-datasets/deephage/deephage_lifestyle.tar.gz)
 
@@ -67,7 +67,7 @@ Includes phage genomes with lifestyle annotations (automated + expert-curated):
 ### Setup
 
 ```bash
-git clone https://github.com/yourteam/phage-llm-classification.git
+git clone https://github.com/phagos-hackathon25/project-gamma.git
 cd phage-llm-classification
 pip install -r requirements.txt
 ```
