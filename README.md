@@ -1,6 +1,6 @@
 ![Pasteurisés Team](./PHAGE.png)
 
-# Phage LLM Classification – Phagos x AWS Hackdays 2025
+# Phage Genomic Classification using DNA Foundation Models – Phagos x Hackdays 2025
 
 ## 🧬 Scientific Context
 
