@@ -85,4 +85,14 @@ Open `prediction.ipynb` using Jupyter and execute the cells sequentially.
 
 ---
 
+## Authors
+
+- [@ktzkvin](https://www.github.com/ktzkvin)
+- [@skrinox](https://www.github.com/skrinox)
+- [@MarionFresquet](https://www.github.com/marionFresquet)
+- [@yellowsmob](https://www.github.com/yellowsmob)
+
+
+---
+
 **This work demonstrates how biological insight and modern ML tooling can meet in a hackathon setting to generate meaningful scientific workflows.**
