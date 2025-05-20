@@ -13,6 +13,7 @@ Bacteriophages (phages), viruses that infect bacteria, play a central role in mi
 ---
 
 ## 🚀 Hackathon Context
+The project was awarded 2nd place among all participating teams.
 
 This project was developed during the **[Phagos x AWS — Hackdays 2025](https://phagos-rd-hackathon25-datasets.s3.eu-west-1.amazonaws.com/phagos_aws_hackathon_kick_off.pdf)**, held in Paris. In 48 hours, we built an end-to-end, biology-informed ML pipeline that combines metagenomic insights with cutting-edge genomic representation models.
 
