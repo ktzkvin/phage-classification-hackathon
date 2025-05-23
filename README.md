@@ -78,7 +78,7 @@ For full dependencies, see `requirements.txt`
 ### Setup
 
 ```bash
-git clone https://github.com/phagos-hackathon25/project-gamma.git
+git clone https://github.com/ktzkvin/phage-classification-hackathon.git
 cd phage-llm-classification
 pip install -r requirements.txt
 ```
