@@ -49,11 +49,11 @@ We employed [Evo](https://github.com/evo-design/evo), a transformer-based founda
 
 ### Dataset 1: Simulated Metagenome
 From Ho et al. (*Microbiome*, 2023) – contains labeled bacterial and phage fragments:
-- [Download link](https://phagos-rd-hackathon25-datasets.s3.eu-west-1.amazonaws.com/refseq_simulated_metagenome/refseq_simulated_metagenome.tar.gz)
+- [Download link]([https://phagos-rd-hackathon25-datasets.s3.eu-west-1.amazonaws.com/refseq_simulated_metagenome/refseq_simulated_metagenome.tar.gz](https://figshare.com/ndownloader/articles/19739884/versions/1))
 
 ### Dataset 2: DeePhage
 Includes phage genomes with lifestyle annotations (automated + expert-curated):
-- [Download link](https://s3.eu-west-1.amazonaws.com/phagos-rd-hackathon25-datasets/deephage/deephage_lifestyle.tar.gz)
+- [Download link]([https://s3.eu-west-1.amazonaws.com/phagos-rd-hackathon25-datasets/deephage/deephage_lifestyle.tar.gz](https://drive.google.com/uc?id=13KfvYgR946gnzBAaM3TYsGPUwvoqlN-Z))
 
 ---
 
