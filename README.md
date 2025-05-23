@@ -59,11 +59,21 @@ Includes phage genomes with lifestyle annotations (automated + expert-curated):
 
 ## 💻 Run Locally
 
-### Requirements
+### Requirements (core)
 
 - Python 3.9+
-- pip
-- Jupyter Notebook
+- numpy
+- pandas
+- matplotlib
+- seaborn
+- plotly
+- folium
+- py7zr
+- requests
+- gdown
+- jupyter
+
+For full dependencies, see `requirements.txt`
 
 ### Setup
 
